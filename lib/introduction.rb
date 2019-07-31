@@ -3,4 +3,4 @@
 #  puts "Hi, my name is #{name}."
 # end
 
-expect{introduction("Josh")}.to output("Hi, my name is Josh.\n")
+{introduction("Josh")}.to output("Hi, my name is Josh.\n")
