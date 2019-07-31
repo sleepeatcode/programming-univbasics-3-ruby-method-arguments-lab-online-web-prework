@@ -1,5 +1,5 @@
 #introduction 
-def "greeting(name)"
+def "introduction(name)"
   puts "Hello, #{name}!"
  end
  #introduction_with_language
