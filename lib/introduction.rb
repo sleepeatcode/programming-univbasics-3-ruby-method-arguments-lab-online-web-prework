@@ -1,4 +1,4 @@
-#introduction with method arguments
+#introduction name, Ruby
 def "introduction_language(name, language)"
   puts "Hello, #{name,}, and I am learning to program in #{language}"
  end
