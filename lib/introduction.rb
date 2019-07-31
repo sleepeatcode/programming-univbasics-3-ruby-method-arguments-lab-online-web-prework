@@ -1,5 +1,5 @@
 #introduction name, language
-def "introduction_language(name, language)"
+def "introduction_language(name = "w", language)"
   puts "Hello, #{name,}, and I am learning to program in #{language}"
  end
 
