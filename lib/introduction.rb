@@ -1,5 +1,5 @@
 #introduction 
-def "introduction(Luke)"
+def "introduction(name)"
   puts "Hello, #{name}!"
  end
 
