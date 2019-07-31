@@ -1,10 +1,7 @@
 #introduction 
-def "introduction(name)"
-  puts "Hello, #{name}!"
+def "introduction(name, language)"
+  puts "Hello, #{name, language}!"
  end
- #introduction_with_language
- def "language_ruby"
- puts 
- end
+
 
 
