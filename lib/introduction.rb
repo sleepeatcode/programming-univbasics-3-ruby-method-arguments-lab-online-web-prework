@@ -1,6 +1,5 @@
 #introduction 
-def "introduction_name"
+def {introduction("Josh")}.to output("Hi, my name is Josh.\n")
   puts "Hi, my name is #{name}."
  end
 
-{introduction("Josh")}.to output("Hi, my name is Josh.\n")
